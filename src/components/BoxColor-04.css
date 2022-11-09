@@ -1,0 +1,12 @@
+.c04-div {
+    border: 2px solid black;
+    margin: 10px auto;
+    font-weight: bold;
+    width: 90%;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua;
+    color: rgb(255,0,0) */
+}
